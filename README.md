@@ -36,7 +36,7 @@ Real-time performance analysis is provided, including detailed metrics for typin
 ## 🛠️ Technologies Used
 
 - 🐍 **Python**: The main programming language for the project.
-- 🌐 **APIs**: Used for text generation and processing.
+- 🌐 **API**: Used for text generation and processing.
 - 📊 **Matplotlib**: For generating performance visualizations.
 - 🎨 **Colorama**: For terminal text styling.
 - 🗣️ **Pyttsx3**: For the Text-to-Speech (TTS) functionality.
@@ -83,9 +83,3 @@ Follow these steps to run the project:
 ## 📌 Notes for Users
 
 To minimize installation issues, ensure you use the provided `requirements.txt` to install dependencies. This will set up all necessary libraries (e.g., `matplotlib`, `pandas`, `aiohttp`, `colorama`, and `pyttsx3`) in a single command. Running the application in **PyCharm** is straightforward if you configure your Python interpreter and virtual environment properly.
-
----
-
-## 🏫 About
-
-This project was completed as part of a home exam during my **master's studies in Applied Computer and Information Technology** at **Oslo Metropolitan University**. It demonstrates problem-solving with Python scripting, object-oriented programming, and accessibility considerations for practical application development.
