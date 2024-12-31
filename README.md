@@ -1,8 +1,10 @@
 # ✨ Typing Tester 🎯
 
-**Typing Tester** is a Python-based application designed to measure typing speed and accuracy. This project was developed as part of a **home exam** for the course **ACIT4420: Problem-solving with Scripting** in the **Applied Computer and Information Technology** master's program at **Oslo Metropolitan University**. 
+**Typing Tester** is a Python-based application designed to measure typing speed and accuracy. This project was developed as part of a **home exam** for the course **ACIT4420: Problem-solving with Scripting** in the **Applied Computer and Information Technology** master's program at **Oslo Metropolitan University**.
 
-The application includes accessibility features, such as a **text-to-speech (TTS)** function, and uses Python APIs for enhanced functionality. It also provides real-time performance analysis with visual results using **matplotlib**.
+The application leverages **object-oriented programming (OOP)** principles, utilizing **classes and methods** to organize the functionality into modular and reusable components. It includes accessibility features, such as a **text-to-speech (TTS)** function powered by the `pyttsx3` library, and integrates **Python APIs** for enhanced text processing and randomization.
+
+Real-time performance analysis is provided, including detailed metrics for typing accuracy and speed, with visual results generated using **matplotlib**. The project is designed with accessibility and user experience in mind, offering options to adjust difficulty levels, track errors, and visualize performance data effectively.
 
 ---
 
@@ -20,6 +22,9 @@ The application includes accessibility features, such as a **text-to-speech (TTS
   - Displays results, including accuracy, time per text, and average metrics.
   - Visual performance charts are generated using `matplotlib`.
 
+- 🔗 **Modular Codebase:**
+  - Uses **object-oriented programming (OOP)** to separate logic into reusable and maintainable components.
+
 ---
 
 ## 🖼️ Screenshots
@@ -34,7 +39,8 @@ The application includes accessibility features, such as a **text-to-speech (TTS
 - 🌐 **APIs**: Used for text generation and processing.
 - 📊 **Matplotlib**: For generating performance visualizations.
 - 🎨 **Colorama**: For terminal text styling.
-- ♿ **Accessibility Features**: Includes TTS using the `pyttsx3` library.
+- 🗣️ **Pyttsx3**: For the Text-to-Speech (TTS) functionality.
+- 🏗️ **Object-Oriented Programming (OOP)**: To ensure a modular and reusable codebase.
 
 ---
 
@@ -82,4 +88,4 @@ To minimize installation issues, ensure you use the provided `requirements.txt` 
 
 ## 🏫 About
 
-This project was completed as part of a home exam during my **master's studies in Applied Computer and Information Technology** at **Oslo Metropolitan University**. It demonstrates problem-solving with Python scripting and accessibility considerations for practical application development.
+This project was completed as part of a home exam during my **master's studies in Applied Computer and Information Technology** at **Oslo Metropolitan University**. It demonstrates problem-solving with Python scripting, object-oriented programming, and accessibility considerations for practical application development.
