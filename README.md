@@ -1,4 +1,4 @@
-# ✨ Typing Tester 🎯
+# ✨ Typing Tester
 
 **Typing Tester** is a Python-based application designed to measure typing speed and accuracy. This project was developed as part of a **home exam** for the course **ACIT4420: Problem-solving with Scripting** in the **Applied Computer and Information Technology** master's program at **Oslo Metropolitan University**.
 
